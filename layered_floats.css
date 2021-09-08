@@ -1,0 +1,19 @@
+.header{
+    overflow: auto;
+}
+ul {
+    float: right;
+    list-style-type: none;
+}
+li {
+    display: inline;
+    padding-right: 10px;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+h1{
+    float:left
+}
+
